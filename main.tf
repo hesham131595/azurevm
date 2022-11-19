@@ -9,10 +9,10 @@ terraform {
 
 
 provider "azurerm" {
-  subscription_id = "912ec2a8-412b-4029-874c-5fde67fabb65"
-    client_id       = "deb88814-ae3d-44a2-b1c1-780424ef597a"
-    client_secret   = "EUi8Q~rgvpD_dHl1fzlVG~Dx5-sHcZE1JyMJecG5"
-    tenant_id       = "394833f4-0bdc-4459-8f12-aac6937a4ac9"
+  subscription_id = ""
+    client_id       = ""
+    client_secret   = ""
+    tenant_id       = ""
       features {}
 }
 
